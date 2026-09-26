@@ -1,7 +1,7 @@
 # Thiết kế, Tối ưu và Đánh giá Bộ Đa Hợp MUX 4:1 (2-bit)
 
 > **Môn học:** Thiết kế Vi mạch số
-> Khoa Kỹ thuật Máy tính - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM  
+> (Khoa Kỹ thuật Máy tính - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM)
 > **Thành viên thực hiện (Nhóm 10):**  
 > - Nguyễn Đình Huy - MSSV: 23520624  
 > - Nguyễn Gia Huy - MSSV: 23520629  
