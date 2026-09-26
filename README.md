@@ -10,7 +10,7 @@
 
 ## 📌 Tổng quan đề tài
 
- án tập trung vào việc nghiên cứu, hiện thực hóa và tối ưu mạch chọn dữ liệu **MUX 4:1 xử lý Bus dữ liệu 2-bit** bằng công nghệ **CMOS 90nm**. Đề tài thực hiện quy trình thiết kế vi mạch Custom chuẩn (Full-custom IC Design flow): từ đặc tả chức năng, vẽ mạch nguyên lý (Schematic), tối ưu kích thước Transistor ($W/L$), vẽ Layout, kiểm tra DRC/LVS, trích xuất ký sinh (Parasitic Extraction) đến mô phỏng hậu layout (Post-Layout Simulation).
+Đồ án tập trung vào việc nghiên cứu, hiện thực hóa và tối ưu mạch chọn dữ liệu **MUX 4:1 xử lý Bus dữ liệu 2-bit** bằng công nghệ **CMOS 90nm**. Đề tài thực hiện quy trình thiết kế vi mạch Custom chuẩn (Full-custom IC Design flow): từ đặc tả chức năng, vẽ mạch nguyên lý (Schematic), tối ưu kích thước Transistor ($W/L$), vẽ Layout, kiểm tra DRC/LVS, trích xuất ký sinh (Parasitic Extraction) đến mô phỏng hậu layout (Post-Layout Simulation).
 
 ### Đặc tả tín hiệu I/O
 * **Ngõ vào dữ liệu (Data inputs):** 4 bus dữ liệu 2-bit: `A[1:0]`, `B[1:0]`, `C[1:0]`, `D[1:0]`.
