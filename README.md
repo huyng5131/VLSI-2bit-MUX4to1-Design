@@ -2,7 +2,6 @@
 
 > **Môn học:** Thiết kế Vi mạch số
 > **Đơn vị:** Khoa Kỹ thuật Máy tính - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM  
-> **Giảng viên hướng dẫn:** ThS. Ngô Hiếu Trường  
 > **Thành viên thực hiện (Nhóm 10):**  
 > - Nguyễn Đình Huy - MSSV: 23520624  
 > - Nguyễn Gia Huy - MSSV: 23520629  
@@ -11,7 +10,7 @@
 
 ## 📌 Tổng quan đề tài
 
-Dự án tập trung vào việc nghiên cứu, hiện thực hóa và tối ưu mạch chọn dữ liệu **MUX 4:1 xử lý Bus dữ liệu 2-bit** bằng công nghệ **CMOS 90nm** trên bộ công cụ EDA của **Synopsys**. Đề tài thực hiện quy trình thiết kế vi mạch Custom chuẩn (Full-custom IC Design flow): từ đặc tả chức năng, vẽ mạch nguyên lý (Schematic), tối ưu kích thước Transistor ($W/L$), vẽ Layout, kiểm tra DRC/LVS, trích xuất ký sinh (Parasitic Extraction) đến mô phỏng hậu layout (Post-Layout Simulation).
+ án tập trung vào việc nghiên cứu, hiện thực hóa và tối ưu mạch chọn dữ liệu **MUX 4:1 xử lý Bus dữ liệu 2-bit** bằng công nghệ **CMOS 90nm**. Đề tài thực hiện quy trình thiết kế vi mạch Custom chuẩn (Full-custom IC Design flow): từ đặc tả chức năng, vẽ mạch nguyên lý (Schematic), tối ưu kích thước Transistor ($W/L$), vẽ Layout, kiểm tra DRC/LVS, trích xuất ký sinh (Parasitic Extraction) đến mô phỏng hậu layout (Post-Layout Simulation).
 
 ### Đặc tả tín hiệu I/O
 * **Ngõ vào dữ liệu (Data inputs):** 4 bus dữ liệu 2-bit: `A[1:0]`, `B[1:0]`, `C[1:0]`, `D[1:0]`.
