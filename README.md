@@ -1,6 +1,6 @@
 # Thiết kế, Tối ưu và Đánh giá Bộ Đa Hợp MUX 4:1 (2-bit)
 
-> **Môn học:** Thiết kế Vi mạch số (Đồ án 1)  
+> **Môn học:** Thiết kế Vi mạch số
 > **Đơn vị:** Khoa Kỹ thuật Máy tính - Trường Đại học Công nghệ Thông tin, ĐHQG-HCM  
 > **Giảng viên hướng dẫn:** ThS. Ngô Hiếu Trường  
 > **Thành viên thực hiện (Nhóm 10):**  
@@ -69,12 +69,3 @@ Số liệu tổng hợp thực tế sau khi kiểm tra vật lý DRC/LVS sạch
 * **Hierarchical:** Phù hợp với cách tiếp cận thiết kế module phân cấp, dễ kiểm soát nhiễu chéo (crosstalk) và mở rộng cho các bus dữ liệu rộng hơn.
 
 ---
-
-## 📁 Cấu trúc thư mục
-
-```text
-├── docs/
-│   ├── Báo_Cáo_VMS.pdf         # Báo cáo chi tiết định dạng PDF
-│   ├── Báo_Cáo_VMS.docx        # Báo cáo chi tiết định dạng Word
-│   └── Slide_Đồ án_VMS.pdf     # Slide thuyết trình bảo vệ đồ án
-└── README.md                   # Tài liệu tóm tắt dự án
